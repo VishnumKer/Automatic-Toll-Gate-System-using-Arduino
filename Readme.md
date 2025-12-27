@@ -17,3 +17,7 @@ This intelligent toll gate system uses RFID technology and infrared sensors to c
 5. **Vehicle Exit Confirmation**: A second IR sensor confirms when the vehicle has completely passed through
 6. **Gate Closing**: The gate automatically closes after the vehicle exits
 
+## Tutorial
+
+Find the full project tutorial here: https://circuitdigest.com/microcontroller-projects/automatic-toll-gate-system-using-arduino
+
